@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KMOneConnect.Api/KMOneConnect.Api.csproj" />
+    <Project Path="src/KMOneConnect.Application/KMOneConnect.Application.csproj" />
+    <Project Path="src/KMOneConnect.Domain/KMOneConnect.Domain.csproj" />
+    <Project Path="src/KMOneConnect.Infrastructure/KMOneConnect.Infrastructure.csproj" />
+    <Project Path="src/KMOneConnect.Lab/KMOneConnect.Lab.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/KMOneConnect.Domain.Tests/KMOneConnect.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
